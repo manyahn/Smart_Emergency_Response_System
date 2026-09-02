@@ -1,0 +1,32 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local data and media
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.jpeg
+*.png
+*.pt
+*.zip
+*.db
+*.sqlite3
+
+# Environment files
+.env
+.env.*
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Local notebooks checkpoints
+.ipynb_checkpoints/

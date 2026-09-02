@@ -1,0 +1,5 @@
+train: C:\Users\HP\Videos\Majorpro\DUMPPP\accident-detection-master\data\images\training
+val: C:\Users\HP\Videos\Majorpro\DUMPPP\accident-detection-master\data\images\validation
+
+nc: 3
+names: ['car', 'accident', 'truck']

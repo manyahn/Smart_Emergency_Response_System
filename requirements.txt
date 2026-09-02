@@ -1,0 +1,25 @@
+# Core app dependencies
+streamlit>=1.38.0
+opencv-python>=4.10.0
+numpy>=1.26.0
+requests>=2.32.0
+pandas>=2.2.0
+Pillow>=10.4.0
+tqdm>=4.4.0
+python-dotenv>=1.0.1
+
+# Object detection / vision
+ultralytics>=8.3.0
+cvzone>=1.6.0
+supervision>=0.22.0
+
+# SMS / alerts
+twilio>=9.4.0
+
+# Analytics / maps
+plotly>=5.18.0
+pydeck>=0.9.3
+
+# Report generation
+reportlab>=4.0.0
+
